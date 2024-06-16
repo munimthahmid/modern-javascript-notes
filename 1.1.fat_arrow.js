@@ -16,7 +16,7 @@
 // console.log(number());
 
 // কিন্তু শুধুই কি সিন্ট্যাক্স সহজ করার জন্য এই Fat Arrow ফাংশনের আবির্ভাব?
-// না , না , না
+// না
 
 //If we pass a normal function inside forEach, then the reference of 'this' keyword changes,so always pass a callback function so that reference of this keyword does not changes. Example:
 let javascript = {
